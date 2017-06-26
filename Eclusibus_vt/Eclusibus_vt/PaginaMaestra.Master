@@ -1,0 +1,38 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PaginaMaestra.master.cs" Inherits="Eclusibus_vt.PaginaMaestra" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="estilos.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <header id="cabecera">
+            <div id="c_left"></div>
+            <div id="c_right"></div>
+            <div id="c_centro"></div>
+        </header>
+        <nav id="navegacion">
+            <ul>
+                <li><a href=""></a>link1</li>
+                <li><a href=""></a>link2</li>
+                <li><a href=""></a>link3</li>
+                <li><a href=""></a>link4</li>
+            </ul>
+        </nav>
+        <section id="principal">
+            <div>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </section>
+        <aside id="lateral"></aside>
+        <footer id="PieGeneral"></footer>
+    </form>
+</body>
+</html>

@@ -1,0 +1,47 @@
+﻿body {
+    font-family:Arial;
+    margin:auto;
+}
+    body * {
+        margin:5px;
+        border:1px solid blue;
+    }
+#cabecera > * {
+    min-height:100px;
+}
+#c_left {
+    float:left;
+    width:30%;
+}
+#c_right {
+    float:right;
+    width:30%;
+}
+#c_centro {
+    margin-left:31%;
+    margin-right:31%;
+}
+#navegacion a {
+    color:black;   
+}
+#navegacion ul {
+    text-align:center;
+}
+#navegacion ul li {
+    display:inline-block;
+}
+#principal {
+    width:70%;
+    min-height:600px;
+    float:left;
+}
+#lateral {
+    width:27%;
+    min-height:600px;
+    float:right;
+}
+#PieGeneral {
+    clear:both;
+    text-align:center;
+    min-height:100px;
+}
