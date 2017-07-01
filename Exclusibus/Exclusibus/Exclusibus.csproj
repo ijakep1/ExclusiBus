@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Default.aspx" />
+    <Content Include="Horarios.aspx" />
     <Content Include="Inicio.aspx" />
     <Content Include="PaginaPrincipal.Master" />
     <None Include="Web.Debug.config">
@@ -70,6 +71,7 @@
   <ItemGroup>
     <Content Include="Estilos.css" />
     <Content Include="Global.asax" />
+    <Content Include="Publicidad.xml" />
     <Content Include="Registro.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -80,6 +82,13 @@
     </Compile>
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Horarios.aspx.cs">
+      <DependentUpon>Horarios.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Horarios.aspx.designer.cs">
+      <DependentUpon>Horarios.aspx</DependentUpon>
     </Compile>
     <Compile Include="Inicio.aspx.cs">
       <DependentUpon>Inicio.aspx</DependentUpon>

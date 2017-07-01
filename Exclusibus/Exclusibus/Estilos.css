@@ -6,11 +6,13 @@ body {
 }
 body * {
     margin:5px;
-    font-family: 'Comic Sans MS';
     font-size: 16px;
 }
 body>a{
     color: black;
+}
+#AdRotator1 img{
+    height: 300px;
 }
 /*cabecera*/
 #cabecera {
@@ -196,3 +198,7 @@ body>a{
         text-decoration:none;
     }
 /*Registro*/
+/*Horarios*/
+#GVBuses{
+    margin: auto;
+}
