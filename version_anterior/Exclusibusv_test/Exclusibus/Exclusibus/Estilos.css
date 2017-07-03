@@ -1,0 +1,254 @@
+﻿/*pagina principal*/
+body {
+    font-family: Arial;
+    margin: auto;
+    background-image: url("http://viatecno.com/img/post/large/fondos-android-pasquarella-01.jpg");
+    
+}
+body * {
+    margin:5px;
+    font-family: 'Comic Sans MS';
+    font-size: 16px;
+}
+body>a{
+    color: black;
+}
+/*cabecera*/
+#cabecera {
+    /*border: 1px solid blue;*/
+    background-color: #adf93b;
+}
+    #cabecera > * {
+        min-height:100px;
+    }
+    #logo {
+        float:left;
+        width:30%;
+        /*border:1px solid blue;*/
+        text-align: center;
+    }
+    #registro {
+        float:right;
+        width:30%;
+        /*border:1px solid blue;*/
+    }
+    #registro>*{
+        padding-top: 30px;
+        text-decoration: none;
+    }
+    .r_link {
+        float:right;
+        margin-right:10px;
+    }
+    #busqueda {
+        margin-left:31%;
+        margin-right:31%;
+        /*border:1px solid blue;*/
+    }
+    #buscador {
+        /*margin-top:30px;*/
+        padding-top: 30px;
+        margin-left:90px;
+        text-align: center;
+    }
+    #bus_tb {
+        width:60%;
+        margin-left:30px;
+    }
+    #bus_btn {
+        width:25%;
+    }
+/*cabecera*/
+/*navegacion*/
+    #navegacion {
+        /*border:1px solid blue;*/
+        clear: both;
+        background-color: #ffffff;
+        height:40px;
+    }
+    #navegacion ul {
+        padding-top: 5px;
+        text-decoration: none;
+    }
+    #navegacion ul li {
+        display:inline-block;
+        margin:0px 81px;
+        color: mistyrose;
+    }
+    #navegacion ul li a {
+      text-decoration:none;
+    }
+/*navegacion*/
+/*descripcion general*/
+    #descrip {
+        text-align:center;
+        /*border:1px solid blue;*/
+    }
+/*descripcion general*/
+/*anuncio general*/
+    #anunciog {
+        min-height:200px;
+        /*border:1px solid blue;*/
+    }
+/*anuncio general*/
+/*cuerpo principal*/
+    #principal {
+        width:71%;
+        min-height:600px;
+        float:left;
+        /*border:1px solid blue;*/
+        background-color: ButtonFace;
+    }
+/*cuerpo principal*/
+/*publicidad y extras*/
+    #lateral {
+        /*border:1px solid blue;*/
+        width:27%;
+        min-height:1020px;
+        float:right;
+    }
+    #eventos {
+        /*border:1px solid blue;*/
+        min-height:250px;
+        background-color: ButtonFace;
+    }
+    #otros {
+        /*border:1px solid blue;*/
+        min-height:250px;
+        background-color: ButtonFace;
+    }
+    #publicidad {
+        /*border:1px solid blue;*/
+        min-height:350px;
+    }
+/*publicidad y extras*/
+/*pie de pagina*/
+    #PieGeneral {
+        clear:both;
+        text-align:center;
+        /*border:1px solid blue;*/
+    }
+/*pie de pagina*/
+/*pagina principal*/
+/*default*/
+    .seccion {
+        width:32%;
+        min-height:250px;
+        float:left;
+    }
+    .seccion article{
+        min-height:200px;
+    }
+    .demo *{
+        /*border:1px solid black;*/
+    }
+    .demo > footer {
+        clear:both;
+        text-align:center;
+    }
+/*default*/
+/*Iniciar sesion*/
+    #formIs {
+        padding-top:25px;
+    }
+    #Is_registro {
+        background-color:#fff;
+        width:38%;
+        height:510px;
+        margin:auto;
+        text-align:center;
+    }
+    #Is_img {
+        height:250px;
+        width:450px;
+    }
+    .Is_user {
+        width:85%;
+        height:43px;
+    }
+    .Is_link {
+        background-color:#f5ec4d;
+        /*border:1px solid blue;*/
+        display:block;
+        text-decoration:none;
+        text-align:center;
+        width:85%;
+        margin-left:8%;
+    }
+/*Iniciar sesion*/
+/*Registro*/
+    #formReg {
+        padding-top:25px;
+    }
+    #c_registro {
+        background-color:#fff;
+        width:40%;
+        height:580px;
+        margin:auto;
+        text-align:center;
+    }
+    #reg_img {
+        height:250px;
+        width:450px;
+    }
+    .reg {
+        width:80%;
+        height:43px;
+    }
+    .reg_link {
+        background-color:#f5ec4d;
+        /*border:1px solid blue;*/
+        display:block;
+        text-decoration:none;
+        text-align:center;
+        width:80%;
+        margin-left:10%;
+    }
+/*Registro*/
+.slider {
+    
+    margin:auto;
+    overflow:hidden;
+    
+}
+.slider ul {
+    display:flex;
+    margin:0;
+    padding:0;
+    width:400%;
+
+    animation:cambio 20s infinite alternate;
+}
+
+.slider li {
+    width:100%;
+    list-style:none;
+}
+
+.slider > ul > li > img {
+    width:100%;
+    height:30%;
+
+    
+}
+@keyframes cambio {
+    0% {margin-left:0;}
+    20% {margin-left:0;}
+
+    25% {margin-left:-100%;}
+    45% {margin-left:-100%;}
+
+    50% {margin-left:-200%;}
+    70% {margin-left:-200%;}
+
+    75% {margin-left:-300%;}
+    100% {margin-left:-300%;}
+}
+
+
+
+#titulo1{
+   width:100%;
+    margin:auto;
+    background-color:aqua;
+}

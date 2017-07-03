@@ -1,0 +1,40 @@
+c:\users\lerin\documents\visual studio 2015\Projects\Eclusibus_vt\Eclusibus_vt\bin\roslyn\csc.exe
+c:\users\lerin\documents\visual studio 2015\Projects\Eclusibus_vt\Eclusibus_vt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\lerin\documents\visual studio 2015\Projects\Eclusibus_vt\Eclusibus_vt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\lerin\documents\visual studio 2015\Projects\Eclusibus_vt\Eclusibus_vt\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\lerin\documents\visual studio 2015\Projects\Eclusibus_vt\Eclusibus_vt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\lerin\documents\visual studio 2015\Projects\Eclusibus_vt\Eclusibus_vt\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\lerin\documents\visual studio 2015\Projects\Eclusibus_vt\Eclusibus_vt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\lerin\documents\visual studio 2015\Projects\Eclusibus_vt\Eclusibus_vt\bin\roslyn\System.Collections.Immutable.dll
+c:\users\lerin\documents\visual studio 2015\Projects\Eclusibus_vt\Eclusibus_vt\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\lerin\documents\visual studio 2015\Projects\Eclusibus_vt\Eclusibus_vt\bin\roslyn\vbc.exe
+c:\users\lerin\documents\visual studio 2015\Projects\Eclusibus_vt\Eclusibus_vt\bin\roslyn\VBCSCompiler.exe
+c:\users\lerin\documents\visual studio 2015\Projects\Eclusibus_vt\Eclusibus_vt\bin\roslyn\VBCSCompiler.exe.config
+c:\users\lerin\documents\visual studio 2015\Projects\Eclusibus_vt\Eclusibus_vt\bin\Eclusibus_vt.dll.config
+c:\users\lerin\documents\visual studio 2015\Projects\Eclusibus_vt\Eclusibus_vt\bin\Eclusibus_vt.dll
+c:\users\lerin\documents\visual studio 2015\Projects\Eclusibus_vt\Eclusibus_vt\bin\Eclusibus_vt.pdb
+c:\users\lerin\documents\visual studio 2015\Projects\Eclusibus_vt\Eclusibus_vt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\lerin\documents\visual studio 2015\Projects\Eclusibus_vt\Eclusibus_vt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\lerin\documents\visual studio 2015\Projects\Eclusibus_vt\Eclusibus_vt\obj\Debug\Eclusibus_vt.csprojResolveAssemblyReference.cache
+c:\users\lerin\documents\visual studio 2015\Projects\Eclusibus_vt\Eclusibus_vt\obj\Debug\Eclusibus_vt.dll
+c:\users\lerin\documents\visual studio 2015\Projects\Eclusibus_vt\Eclusibus_vt\obj\Debug\Eclusibus_vt.pdb
+C:\Users\alumno\Documents\GitHub\ExclusiBus\Eclusibus_vt\Eclusibus_vt\Eclusibus_vt\bin\roslyn\csc.exe
+C:\Users\alumno\Documents\GitHub\ExclusiBus\Eclusibus_vt\Eclusibus_vt\Eclusibus_vt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alumno\Documents\GitHub\ExclusiBus\Eclusibus_vt\Eclusibus_vt\Eclusibus_vt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alumno\Documents\GitHub\ExclusiBus\Eclusibus_vt\Eclusibus_vt\Eclusibus_vt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alumno\Documents\GitHub\ExclusiBus\Eclusibus_vt\Eclusibus_vt\Eclusibus_vt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alumno\Documents\GitHub\ExclusiBus\Eclusibus_vt\Eclusibus_vt\Eclusibus_vt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alumno\Documents\GitHub\ExclusiBus\Eclusibus_vt\Eclusibus_vt\Eclusibus_vt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alumno\Documents\GitHub\ExclusiBus\Eclusibus_vt\Eclusibus_vt\Eclusibus_vt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alumno\Documents\GitHub\ExclusiBus\Eclusibus_vt\Eclusibus_vt\Eclusibus_vt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alumno\Documents\GitHub\ExclusiBus\Eclusibus_vt\Eclusibus_vt\Eclusibus_vt\bin\roslyn\vbc.exe
+C:\Users\alumno\Documents\GitHub\ExclusiBus\Eclusibus_vt\Eclusibus_vt\Eclusibus_vt\bin\roslyn\VBCSCompiler.exe
+C:\Users\alumno\Documents\GitHub\ExclusiBus\Eclusibus_vt\Eclusibus_vt\Eclusibus_vt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alumno\Documents\GitHub\ExclusiBus\Eclusibus_vt\Eclusibus_vt\Eclusibus_vt\bin\Eclusibus_vt.dll.config
+C:\Users\alumno\Documents\GitHub\ExclusiBus\Eclusibus_vt\Eclusibus_vt\Eclusibus_vt\bin\Eclusibus_vt.dll
+C:\Users\alumno\Documents\GitHub\ExclusiBus\Eclusibus_vt\Eclusibus_vt\Eclusibus_vt\bin\Eclusibus_vt.pdb
+C:\Users\alumno\Documents\GitHub\ExclusiBus\Eclusibus_vt\Eclusibus_vt\Eclusibus_vt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alumno\Documents\GitHub\ExclusiBus\Eclusibus_vt\Eclusibus_vt\Eclusibus_vt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alumno\Documents\GitHub\ExclusiBus\Eclusibus_vt\Eclusibus_vt\Eclusibus_vt\obj\Debug\Eclusibus_vt.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Documents\GitHub\ExclusiBus\Eclusibus_vt\Eclusibus_vt\Eclusibus_vt\obj\Debug\Eclusibus_vt.dll
+C:\Users\alumno\Documents\GitHub\ExclusiBus\Eclusibus_vt\Eclusibus_vt\Eclusibus_vt\obj\Debug\Eclusibus_vt.pdb

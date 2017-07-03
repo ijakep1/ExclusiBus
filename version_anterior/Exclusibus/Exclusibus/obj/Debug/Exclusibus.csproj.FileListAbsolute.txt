@@ -1,0 +1,36 @@
+C:\Users\alumno\Documents\Visual Studio 2013\Exclusibus\Exclusibus\bin\Exclusibus.dll.config
+C:\Users\alumno\Documents\Visual Studio 2013\Exclusibus\Exclusibus\bin\Exclusibus.dll
+C:\Users\alumno\Documents\Visual Studio 2013\Exclusibus\Exclusibus\bin\Exclusibus.pdb
+C:\Users\alumno\Documents\Visual Studio 2013\Exclusibus\Exclusibus\obj\Debug\Exclusibus.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Documents\Visual Studio 2013\Exclusibus\Exclusibus\obj\Debug\Exclusibus.dll
+C:\Users\alumno\Documents\Visual Studio 2013\Exclusibus\Exclusibus\obj\Debug\Exclusibus.pdb
+C:\Users\Ijak\Desktop\Exclusibus\Exclusibus\bin\Exclusibus.dll.config
+C:\Users\Ijak\Desktop\Exclusibus\Exclusibus\bin\Exclusibus.dll
+C:\Users\Ijak\Desktop\Exclusibus\Exclusibus\bin\Exclusibus.pdb
+C:\Users\Ijak\Desktop\Exclusibus\Exclusibus\obj\Debug\Exclusibus.csprojResolveAssemblyReference.cache
+C:\Users\Ijak\Desktop\Exclusibus\Exclusibus\obj\Debug\Exclusibus.dll
+C:\Users\Ijak\Desktop\Exclusibus\Exclusibus\obj\Debug\Exclusibus.pdb
+C:\Users\alumno\Documents\GitHub\ExclusiBus\Exclusibus\Exclusibus\bin\Exclusibus.dll.config
+C:\Users\alumno\Documents\GitHub\ExclusiBus\Exclusibus\Exclusibus\bin\Exclusibus.dll
+C:\Users\alumno\Documents\GitHub\ExclusiBus\Exclusibus\Exclusibus\bin\Exclusibus.pdb
+C:\Users\alumno\Documents\GitHub\ExclusiBus\Exclusibus\Exclusibus\obj\Debug\Exclusibus.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Documents\GitHub\ExclusiBus\Exclusibus\Exclusibus\obj\Debug\Exclusibus.dll
+C:\Users\alumno\Documents\GitHub\ExclusiBus\Exclusibus\Exclusibus\obj\Debug\Exclusibus.pdb
+C:\Users\alumno\Desktop\Exclusibus\Exclusibus\bin\Exclusibus.dll.config
+C:\Users\alumno\Desktop\Exclusibus\Exclusibus\bin\Exclusibus.dll
+C:\Users\alumno\Desktop\Exclusibus\Exclusibus\bin\Exclusibus.pdb
+C:\Users\alumno\Desktop\Exclusibus\Exclusibus\obj\Debug\Exclusibus.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Exclusibus\Exclusibus\obj\Debug\Exclusibus.dll
+C:\Users\alumno\Desktop\Exclusibus\Exclusibus\obj\Debug\Exclusibus.pdb
+C:\Users\i\Videos\programacion ultimo\ExclusiBus-master\Exclusibus\Exclusibus\bin\Exclusibus.dll.config
+C:\Users\i\Videos\programacion ultimo\ExclusiBus-master\Exclusibus\Exclusibus\bin\Exclusibus.dll
+C:\Users\i\Videos\programacion ultimo\ExclusiBus-master\Exclusibus\Exclusibus\bin\Exclusibus.pdb
+C:\Users\i\Videos\programacion ultimo\ExclusiBus-master\Exclusibus\Exclusibus\obj\Debug\Exclusibus.csprojResolveAssemblyReference.cache
+C:\Users\i\Videos\programacion ultimo\ExclusiBus-master\Exclusibus\Exclusibus\obj\Debug\Exclusibus.dll
+C:\Users\i\Videos\programacion ultimo\ExclusiBus-master\Exclusibus\Exclusibus\obj\Debug\Exclusibus.pdb
+C:\Users\i\Documents\GitHub\ExclusiBus\Exclusibus\Exclusibus\bin\Exclusibus.dll.config
+C:\Users\i\Documents\GitHub\ExclusiBus\Exclusibus\Exclusibus\bin\Exclusibus.dll
+C:\Users\i\Documents\GitHub\ExclusiBus\Exclusibus\Exclusibus\bin\Exclusibus.pdb
+C:\Users\i\Documents\GitHub\ExclusiBus\Exclusibus\Exclusibus\obj\Debug\Exclusibus.csprojResolveAssemblyReference.cache
+C:\Users\i\Documents\GitHub\ExclusiBus\Exclusibus\Exclusibus\obj\Debug\Exclusibus.dll
+C:\Users\i\Documents\GitHub\ExclusiBus\Exclusibus\Exclusibus\obj\Debug\Exclusibus.pdb
