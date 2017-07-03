@@ -1,0 +1,67 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PaginaMaestra.master.cs" Inherits="Exclusibus_One.PaginaMaestra" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="estilos_one.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous"/>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <header id="cabecera">
+                <div id="logo"><img height="100" src="https://www.freelogoservices.com/api/main/ph/zjHl2lgef9cYrQL0JFa7kzbw2vuCpB5InhvO0Dp9OXdE9g5shnN1i...Bv9ettdV9dsBUGw0pY" /></div>
+                <div id="registro">
+                        <a class="r_link" href="Registro.aspx">Registrarse</a>
+                        <a class="r_link" href="IniciarSesion.aspx">Iniciar Sesion</a>
+                    <div>
+                        <a href=""></a>
+                        <a href=""></a>
+                        <a href=""></a>
+                    </div>
+                </div>
+                <div id="busqueda">
+                    <div id="buscador">
+                        <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+                        <asp:Button ID="Button1" runat="server" Text="Buscar" />
+                    </div>
+                </div>
+           </header>
+         <nav id="navegacion">
+                <ul>
+                    <li><a href="Default.aspx">Inicio</a></li>
+                    <li><a href="">Quienes somos</a></li>
+                    <li><a href="">Estacionamientos</a></li>
+                    <li><a href="">Contacto</a></li>
+                </ul>
+         </nav>    
+            <section id="principal">
+                <div>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+                    </asp:ContentPlaceHolder>
+                </div>
+            </section>
+
+            <aside id="lateral">
+                <section id="eventos">
+                    Calendario de eventos
+                </section>
+                <section id="otros">
+                    otros
+                </section>
+                <section id="publicidad">
+                    Publicidad
+                </section>
+            </aside>
+            <footer id="PieGeneral">Pie de pagina</footer>
+    </form>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</body>
+</html>

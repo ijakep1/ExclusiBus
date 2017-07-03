@@ -1,0 +1,192 @@
+﻿/*pagina principal*/
+body {
+    font-family: Arial;
+    margin: auto;
+    background-image: url("http://viatecno.com/img/post/large/fondos-android-pasquarella-01.jpg");
+    
+}
+body * {
+    margin:5px;
+    font-family: 'Comic Sans MS';
+    font-size: 16px;
+}
+body>a{
+    color: black;
+}
+/*cabecera*/
+#cabecera {
+    /*border: 1px solid blue;*/
+    background-color: #adf93b;
+}
+    #cabecera > * {
+        min-height:100px;
+    }
+    #logo {
+        float:left;
+        width:30%;
+        /*border:1px solid blue;*/
+        text-align: center;
+    }
+    #registro {
+        float:right;
+        width:30%;
+        /*border:1px solid blue;*/
+    }
+    #registro>*{
+        padding-top: 30px;
+        text-decoration: none;
+    }
+    .r_link {
+        float:right;
+        margin-right:10px;
+    }
+    #busqueda {
+        margin-left:31%;
+        margin-right:31%;
+        /*border:1px solid blue;*/
+    }
+    #buscador {
+        /*margin-top:30px;*/
+        padding-top: 30px;
+        margin-left:90px;
+        text-align: center;
+    }
+    #bus_tb {
+        width:60%;
+        margin-left:30px;
+    }
+    #bus_btn {
+        width:25%;
+    }
+/*cabecera*/
+/*navegacion*/
+    #navegacion {
+        /*border:1px solid blue;*/
+        clear: both;
+        background-color: #ffffff;
+        height:40px;
+    }
+    #navegacion ul {
+        padding-top: 5px;
+        text-decoration: none;
+    }
+    #navegacion ul li {
+        display:inline-block;
+        margin:0px 50px;
+        color: mistyrose;
+    }
+    #navegacion ul li a {
+      text-decoration:none;
+    }
+/*navegacion*/
+/*descripcion general*/
+    #descrip {
+        text-align:center;
+        /*border:1px solid blue;*/
+    }
+/*descripcion general*/
+/*anuncio general*/
+    #anunciog {
+        min-height:200px;
+        /*border:1px solid blue;*/
+    }
+/*anuncio general*/
+/*cuerpo principal*/
+    #principal {
+        width:71%;
+        min-height:600px;
+        float:left;
+        /*border:1px solid blue;*/
+        background-color: ButtonFace;
+    }
+/*cuerpo principal*/
+/*publicidad y extras*/
+    #lateral {
+        /*border:1px solid blue;*/
+        width:27%;
+        min-height:1020px;
+        float:right;
+    }
+    #eventos {
+        /*border:1px solid blue;*/
+        min-height:250px;
+        background-color: ButtonFace;
+    }
+    #otros {
+        /*border:1px solid blue;*/
+        min-height:250px;
+        background-color: ButtonFace;
+    }
+    #publicidad {
+        /*border:1px solid blue;*/
+        min-height:350px;
+    }
+/*publicidad y extras*/
+/*pie de pagina*/
+    #PieGeneral {
+        clear:both;
+        text-align:center;
+        /*border:1px solid blue;*/
+    }
+/*pie de pagina*/
+/*pagina principal*/
+/*Default*/
+#myCarousel {
+    height:410px;  
+}
+#myCarousel img {
+    height:400px;
+    width:965px; 
+    margin-left:0px;
+}
+/*Default*/
+/*Iniciar Sesion*/
+    #formIs {
+        padding-top:25px;
+    }
+    #iniciar_sesion {
+        width:500px;
+        margin:auto;
+        border:1px solid blue;
+        text-align:center;
+    }
+    #is_img {
+        border:1px solid blue;
+        min-height:100px;
+        width:460px;
+        margin-left:20px;
+    }
+    .is {
+        width:90%;
+        height:43px;
+    }
+    .is_link {
+        display:block;
+        text-decoration:none;
+    }
+/*Iniciar Sesion*/
+/*Registro*/
+    #formReg {
+        padding-top:25px;
+    }
+    #Regis {
+        width:500px;
+        margin:auto;
+        border:1px solid blue;
+        text-align:center;
+    }
+    #reg_img {
+        border:1px solid blue;
+        min-height:100px;
+        width:460px;
+        margin-left:20px;
+    }
+    .reg {
+        width:90%;
+        height:43px;
+    }
+    .reg_link {
+        display:block;
+        text-decoration:none;
+    }
+/*Registro*/

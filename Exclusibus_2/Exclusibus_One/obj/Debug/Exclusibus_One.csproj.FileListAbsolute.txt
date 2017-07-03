@@ -1,0 +1,17 @@
+C:\Users\Public\Pictures\Sample Pictures\Exclusibus_One\Exclusibus_One\bin\Exclusibus_One.dll.config
+C:\Users\Public\Pictures\Sample Pictures\Exclusibus_One\Exclusibus_One\bin\Exclusibus_One.dll
+C:\Users\Public\Pictures\Sample Pictures\Exclusibus_One\Exclusibus_One\bin\Exclusibus_One.pdb
+C:\Users\Public\Pictures\Sample Pictures\Exclusibus_One\Exclusibus_One\obj\Debug\Exclusibus_One.dll
+C:\Users\Public\Pictures\Sample Pictures\Exclusibus_One\Exclusibus_One\obj\Debug\Exclusibus_One.pdb
+C:\Users\alumno\Desktop\Exclusibus_One\Exclusibus_One\bin\Exclusibus_One.dll.config
+C:\Users\alumno\Desktop\Exclusibus_One\Exclusibus_One\bin\Exclusibus_One.dll
+C:\Users\alumno\Desktop\Exclusibus_One\Exclusibus_One\bin\Exclusibus_One.pdb
+C:\Users\alumno\Desktop\Exclusibus_One\Exclusibus_One\obj\Debug\Exclusibus_One.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Exclusibus_One\Exclusibus_One\obj\Debug\Exclusibus_One.dll
+C:\Users\alumno\Desktop\Exclusibus_One\Exclusibus_One\obj\Debug\Exclusibus_One.pdb
+C:\Users\alumno\Documents\GitHub\ExclusiBus\Exclusibus_2\Exclusibus_One\bin\Exclusibus_One.dll.config
+C:\Users\alumno\Documents\GitHub\ExclusiBus\Exclusibus_2\Exclusibus_One\bin\Exclusibus_One.dll
+C:\Users\alumno\Documents\GitHub\ExclusiBus\Exclusibus_2\Exclusibus_One\bin\Exclusibus_One.pdb
+C:\Users\alumno\Documents\GitHub\ExclusiBus\Exclusibus_2\Exclusibus_One\obj\Debug\Exclusibus_One.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Documents\GitHub\ExclusiBus\Exclusibus_2\Exclusibus_One\obj\Debug\Exclusibus_One.dll
+C:\Users\alumno\Documents\GitHub\ExclusiBus\Exclusibus_2\Exclusibus_One\obj\Debug\Exclusibus_One.pdb
