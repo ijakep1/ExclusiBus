@@ -2,17 +2,16 @@
 body {
     font-family: Arial;
     margin: auto;
-    background-image: url("http://viatecno.com/img/post/large/fondos-android-pasquarella-01.jpg")
+    background-image: url("http://viatecno.com/img/post/large/fondos-android-pasquarella-01.jpg");
+    
 }
 body * {
     margin:5px;
+    font-family: 'Comic Sans MS';
     font-size: 16px;
 }
 body>a{
     color: black;
-}
-#AdRotator1 img{
-    height: 300px;
 }
 /*cabecera*/
 #cabecera {
@@ -95,7 +94,7 @@ body>a{
 /*cuerpo principal*/
     #principal {
         width:71%;
-        min-height:600px;
+        min-height:500px;
         float:left;
         /*border:1px solid blue;*/
         background-color: ButtonFace;
@@ -152,53 +151,106 @@ body>a{
     #formIs {
         padding-top:25px;
     }
-    #iniciar_sesion {
-        width:500px;
+    #Is_registro {
+        background-color:#fff;
+        width:38%;
+        height:510px;
         margin:auto;
-        /*border:1px solid blue;*/
-     text-align:center;
+        text-align:center;
     }
-    #is_img {
-        /*border:1px solid blue;*/
-        min-height:100px;
-        width:460px;
-        margin-left:20px;
+    #Is_img {
+        height:250px;
+        width:450px;
     }
-    .is {
-        width:90%;
+    .Is_user {
+        width:85%;
         height:43px;
     }
-    .is_link {
+    .Is_link {
+        background-color:#f5ec4d;
+        /*border:1px solid blue;*/
         display:block;
         text-decoration:none;
+        text-align:center;
+        width:85%;
+        margin-left:8%;
     }
 /*Iniciar sesion*/
 /*Registro*/
     #formReg {
         padding-top:25px;
     }
-    #Regis {
-        width:500px;
+    #c_registro {
+        background-color:#fff;
+        width:40%;
+        height:580px;
         margin:auto;
-        /*border:1px solid blue;*/
         text-align:center;
     }
     #reg_img {
-        /*border:1px solid blue;*/
-        min-height:100px;
-        width:460px;
-        margin-left:20px;
+        height:250px;
+        width:450px;
     }
     .reg {
-        width:90%;
+        width:80%;
         height:43px;
     }
     .reg_link {
+        background-color:#f5ec4d;
+        /*border:1px solid blue;*/
         display:block;
         text-decoration:none;
+        text-align:center;
+        width:80%;
+        margin-left:10%;
     }
 /*Registro*/
-/*Horarios*/
-#GVBuses{
-    margin: auto;
+
+/*Principal*/
+.slider {
+    
+    margin:auto;
+    overflow:hidden;
+    
+}
+.slider ul {
+    display:flex;
+    margin:0;
+    padding:0;
+    width:400%;
+
+    animation:cambio 20s infinite alternate;
+}
+
+.slider li {
+    width:100%;
+    list-style:none;
+}
+
+.slider > ul > li > img {
+    width:100%;
+    height:30%;
+
+    
+}
+@keyframes cambio {
+    0% {margin-left:0;}
+    20% {margin-left:0;}
+
+    25% {margin-left:-100%;}
+    45% {margin-left:-100%;}
+
+    50% {margin-left:-200%;}
+    70% {margin-left:-200%;}
+
+    75% {margin-left:-300%;}
+    100% {margin-left:-300%;}
+}
+
+
+
+#titulo1{
+   width:100%;
+    margin:auto;
+    background-color:aqua;
 }

@@ -34,10 +34,11 @@
             <nav id="navegacion">
                 <ul>
                     <li><a href="Default.aspx">Inicio</a></li>
-                    <li><a href="Horarios.aspx">Horarios de Buses</a></li>
-                    <li><a href="">link3</a></li>
-                    <li><a href="">Contáctanos</a></li>
+                    <li><a href="">link2</a></li>
+                    <li><a href="">link3</a>Estacionamientos</li>
+                    <li><a href="">link4</a></li>
                     <li><a href="">link5</a></li>
+                    <li><a href="">link6</a></li>
                 </ul>
             </nav>
                         
@@ -54,8 +55,7 @@
                     otros
                 </section>
                 <section id="publicidad">
-                    <asp:AdRotator ID="AdRotator1" runat="server" DataSourceID="XDSPublicidad" />
-                    <asp:XmlDataSource runat="server" ID="XDSPublicidad" DataFile="~/Publicidad.xml"></asp:XmlDataSource>
+                    Publicidad
                 </section>
             </aside>
             <footer id="PieGeneral">Pie de pagina</footer>

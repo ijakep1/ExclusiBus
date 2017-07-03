@@ -59,6 +59,7 @@
   <ItemGroup>
     <Content Include="Default.aspx" />
     <Content Include="Horarios.aspx" />
+    <Content Include="IniciarSesion.aspx" />
     <Content Include="Inicio.aspx" />
     <Content Include="PaginaPrincipal.Master" />
     <None Include="Web.Debug.config">
@@ -71,7 +72,7 @@
   <ItemGroup>
     <Content Include="Estilos.css" />
     <Content Include="Global.asax" />
-    <Content Include="Publicidad.xml" />
+    <Content Include="Registro.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -88,6 +89,13 @@
     </Compile>
     <Compile Include="Horarios.aspx.designer.cs">
       <DependentUpon>Horarios.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="IniciarSesion.aspx.cs">
+      <DependentUpon>IniciarSesion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="IniciarSesion.aspx.designer.cs">
+      <DependentUpon>IniciarSesion.aspx</DependentUpon>
     </Compile>
     <Compile Include="Inicio.aspx.cs">
       <DependentUpon>Inicio.aspx</DependentUpon>
@@ -107,9 +115,15 @@
     <Compile Include="PaginaPrincipal.Master.designer.cs">
       <DependentUpon>PaginaPrincipal.Master</DependentUpon>
     </Compile>
+    <Compile Include="Registro.aspx.cs">
+      <DependentUpon>Registro.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro.aspx.designer.cs">
+      <DependentUpon>Registro.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Administración\" />
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
   </ItemGroup>
