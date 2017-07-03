@@ -1,0 +1,5 @@
+C:\Users\Public\Pictures\Sample Pictures\Exclusibus_One\Exclusibus_One\bin\Exclusibus_One.dll.config
+C:\Users\Public\Pictures\Sample Pictures\Exclusibus_One\Exclusibus_One\bin\Exclusibus_One.dll
+C:\Users\Public\Pictures\Sample Pictures\Exclusibus_One\Exclusibus_One\bin\Exclusibus_One.pdb
+C:\Users\Public\Pictures\Sample Pictures\Exclusibus_One\Exclusibus_One\obj\Debug\Exclusibus_One.dll
+C:\Users\Public\Pictures\Sample Pictures\Exclusibus_One\Exclusibus_One\obj\Debug\Exclusibus_One.pdb
